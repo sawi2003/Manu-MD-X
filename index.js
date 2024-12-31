@@ -20,18 +20,18 @@
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : MANU-MD
-//  * @author : Manul Official
-//  * @youtube : https://www.youtube.com/@ManulOfficialTech
+//  * @project_name : sawi-MD
+//  * @author : sawi Official
+//  *
 //  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
 //*
 //*
 //base by Manul Official
 //GitHub: @manulofficial7
-//WhatsApp: +94742274855
+//WhatsApp: +94767969374
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
-//   * Created By Github: manulofficial7.
-//   * Credit To Manul Official
+//   * Created By Github: sawi2003.
+//   * Credit To sawi Official
 //   * ©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚.
 // ⛥┌┤
 // */
